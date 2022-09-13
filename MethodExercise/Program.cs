@@ -1,0 +1,4 @@
+﻿using MethodExercise;
+
+Methods.MethodString();
+
